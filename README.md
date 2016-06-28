@@ -2,7 +2,8 @@
 
 ## System update automation scripts.
 
-### Usage :- 
+### update_new.sh
+#### Usage :- 
 
 	update_new.sh [options]
 
@@ -11,7 +12,7 @@
 	-m, --mailto <email>            Address to send notification email to.  See also -s, --sendmail.
     								default = 'carlmcalwane@hotmail.co.uk'.
 	-l, --logfile <logfile name>	Logfile name.  Default =  /var/log/update_new.sh.log.  
-									'\*\*NOLOG\*\*' = no logging.
+									'**NOLOG**' = no logging.
 	-q, --quiet                     Don't display any output to STDOUT.
 	-v, --verbose                   Use verbose logging and output.
 	-s, --sendmail <true | false>   Send notification email to <mailto> address.  See also -m, --mailto.
