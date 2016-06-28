@@ -1,6 +1,7 @@
 # prudence
 
 ## System update automation scripts.
+This is a library of scripts ment to help automate Debian like systems.  
 
 ###### update_new.sh usage :- 
 	update_new.sh [options]
