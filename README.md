@@ -3,11 +3,11 @@
 ## System update automation scripts.
 
 ### update_new.sh
-##### Usage :- 
+###### Usage :- 
 
 	update_new.sh [options]
 
-##### Options :- 
+###### Options :- 
 
 	-m, --mailto <email>            Address to send notification email to.  See also -s, --sendmail.
     								default = 'carlmcalwane@hotmail.co.uk'.
