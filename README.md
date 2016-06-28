@@ -2,8 +2,8 @@
 
 ## System update automation scripts.
 
-### update_new.sh
-###### Usage :- 
+
+###### update_new.sh usage :- 
 
 	update_new.sh [options]
 
