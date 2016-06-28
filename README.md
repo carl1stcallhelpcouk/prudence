@@ -2,11 +2,8 @@
 
 ## System update automation scripts.
 
-
 ###### update_new.sh usage :- 
-
 	update_new.sh [options]
-
 ###### Options :- 
 
 	-m, --mailto <email>            Address to send notification email to.  See also -s, --sendmail.
@@ -35,5 +32,5 @@
 									Default = 'false'.  'true' if parameter is ommited.
 
 	-h, --help                      Show this help text.
-	
+
 	-o, --showoptions               Show configured options.
