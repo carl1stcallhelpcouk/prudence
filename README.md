@@ -1,7 +1,8 @@
 # prudence
 
 ## System update automation scripts.
-This is a library of scripts ment to help automate the upgrade aplications process on Unix systems.  It is primaraly developed and tested on Debian Jessie, but should work on any flavour of Linux, that uses apt-get.  
+This is a library of scripts ment to help automate the upgrade aplications process on Unix systems.  
+It is primaraly developed and tested on Debian Jessie, but should work on any flavour of Linux that uses apt-get.  
 
 ###### update_new.sh usage :- 
 	update_new.sh [options]
